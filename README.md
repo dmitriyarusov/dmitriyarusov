@@ -1,12 +1,25 @@
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Языки и инструменты: 
+
+![Python](https://img.shields.io/badge/-Python-blue)
+![SQL](https://img.shields.io/badge/-SQL-blue)
+![Pandas](https://img.shields.io/badge/-Pandas-blue)
+![NumPy](https://img.shields.io/badge/-NumPy-blue)
+![SciPy](https://img.shields.io/badge/-SciPy-blue)
+![Seaborn](https://img.shields.io/badge/-Seaborn-blue)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-blue)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue)
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-blue)
+![Superset](https://img.shields.io/badge/-Superset-blue)
+![DataLens](https://img.shields.io/badge/-DataLens-blue)
+![Airflow](https://img.shields.io/badge/-Airflow-blue)
+![Redash](https://img.shields.io/badge/-Redash-blue)
+
+
+
+Мои контакты: 
+
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/dmitriyarusov)
+
