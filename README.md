@@ -1,7 +1,7 @@
 ### Hi there 👋
+![63b8816e98a87732139017](https://user-images.githubusercontent.com/118052952/236633562-6808b7dd-ec8a-44f9-8509-c5a626871d07.jpg)
 
-<!--
-**dmitriyarusov/dmitriyarusov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
