@@ -1,5 +1,4 @@
-![Enterprise-Artificial-Intelligence-e1658837878723](https://user-images.githubusercontent.com/118052952/236633630-77ec7602-f2cd-484e-9bc3-6abac35ee544.jpg)
-
+![0299_637547236558675328](https://user-images.githubusercontent.com/118052952/236633694-7e3b6a23-93a7-4660-8e8d-2a52007d544a.jpg)
 
 
 Here are some ideas to get you started:
