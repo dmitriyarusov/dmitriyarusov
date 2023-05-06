@@ -1,5 +1,4 @@
-### Hi there 👋
-![63b8816e98a87732139017](https://user-images.githubusercontent.com/118052952/236633562-6808b7dd-ec8a-44f9-8509-c5a626871d07.jpg)
+![Enterprise-Artificial-Intelligence-e1658837878723](https://user-images.githubusercontent.com/118052952/236633630-77ec7602-f2cd-484e-9bc3-6abac35ee544.jpg)
 
 
 
