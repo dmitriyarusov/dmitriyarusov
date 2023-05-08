@@ -1,14 +1,12 @@
 
 
 Hello, I'm Dmitry.
---------
 I'm developing in data analysis.
---------
-This page is in the process of loading..
---------
+This page is in the process of loading...
+
 
 Languages and tools: 
-
+--------
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
 ![Pandas](https://img.shields.io/badge/-Pandas-blue)
@@ -26,6 +24,6 @@ Languages and tools:
 
 
 My contacts:
-
+--------
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/dmitriyarusov)
 
