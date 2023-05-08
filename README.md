@@ -2,7 +2,7 @@
 
 
 
-Языки и инструменты: 
+Languages and tools: 
 
 ![Python](https://img.shields.io/badge/-Python-blue)
 ![SQL](https://img.shields.io/badge/-SQL-blue)
@@ -20,7 +20,7 @@
 
 
 
-Мои контакты: 
+My contacts:
 
 [![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/dmitriyarusov)
 
