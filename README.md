@@ -1,9 +1,12 @@
 
 
 Hello, I'm Dmitry.
-I'm developing in data analysis.
-This page is in the process of loading...
 
+I'm developing in data analysis.
+
+This page is in the process of loading...
+  
+-----------
 
 Languages and tools: 
 --------
