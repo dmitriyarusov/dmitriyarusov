@@ -1,6 +1,6 @@
 
 
-Hello, I'm Dmitry.
+Hello, I'm Dmitriy.
 
 I'm developing in data analysis.
 
