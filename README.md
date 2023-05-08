@@ -4,8 +4,14 @@ Hello, I'm Dmitry.
 
 I'm developing in data analysis.
 
+
+![image](https://user-images.githubusercontent.com/118052952/236897655-1d50a887-968a-41a6-a8b1-2622a34f83f4.png)
+
+
+
+
 This page is in the process of loading...
-  
+
 -----------
 
 Languages and tools: 
