@@ -1,8 +1,8 @@
 
 
-Hello, I'm Dmitriy.
+__Hello, I'm Dmitriy.
 
-I'm developing in data analysis.
+__I'm developing in data analysis.
 
 
 ![image](https://user-images.githubusercontent.com/118052952/236897655-1d50a887-968a-41a6-a8b1-2622a34f83f4.png)
@@ -10,7 +10,7 @@ I'm developing in data analysis.
 
 
 
-This page is in the process of loading...
+__This page is in the process of loading...
 
 -----------
 
