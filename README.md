@@ -35,5 +35,5 @@ Languages and tools:
 
 My contacts:
 --------
-[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/dmitriyarusov)
+[![Telegram](https://img.shields.io/badge/Telegram-blue)](https://t.me/dyarusov)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-blue)](https://api.whatsapp.com/send/?phone=89118154869&text&type=phone_number&app_absent=0)
